@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loveislandcoins.com/sitemap.xml
